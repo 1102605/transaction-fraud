@@ -208,4 +208,4 @@ features = np.array([[4, 9000.60, 9000.60, 0.0]])
 print(model.predict(features))
 ['Fraud']
 Summary
-So this is how we can detect online payments fraud with machine learning using Python. Detecting online payment frauds is one of the applications of data science in finance. I hope you liked this article on online payments fraud detection with machine learning using Python. Feel free to ask valuable questions in the comments section below.
+So this is how we can detect online payments fraud with machine learning using Python. Detecting online payment frauds is one of the applications of data science in finance.
